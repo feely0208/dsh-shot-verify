@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-shot-verify 的组合层
+- insert:
+    - id: shot-verify
+      name: '@deepwhale-cn/dsh-shot-verify'
